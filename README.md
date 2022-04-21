@@ -1,2 +1,2 @@
 # Rastreador de la EEI
-Código para la clase 79
+Código de la clase 79
